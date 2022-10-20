@@ -1,0 +1,10 @@
+{
+    "issue": {
+        "title": "I have created an issue",
+        "body": "Minor bug",
+        "labels": [
+            "bug",
+            "minor"
+        ]
+    }
+}
