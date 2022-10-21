@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "id": 999,
+            "employee_name": "New New",
+            "employee_salary": 123,
+            "employee_age": 99
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
